@@ -1,1 +1,9 @@
 #include<stdio.h>
+void()
+char main
+{
+printf("Enter your name:/n");
+scanf("%c",char);
+printf("Your name is:/n");
+getch();
+}
