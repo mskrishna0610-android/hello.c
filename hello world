@@ -1,9 +1,8 @@
 #include<stdio.h>
-void()
-char main
+char main()
 {
-printf("Enter your name:/n");
-scanf("%c",char);
-printf("Your name is:/n");
+printf("Enter your name:\n");
+scanf("%c",&name);
+printf("Your name is:%c\n");
 getch();
 }
